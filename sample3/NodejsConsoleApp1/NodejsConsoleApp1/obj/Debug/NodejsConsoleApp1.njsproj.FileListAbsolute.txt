@@ -1,0 +1,3 @@
+C:\Users\Akihiko\Desktop\Repos\TypeScriptSample\sample3\NodejsConsoleApp1\NodejsConsoleApp1\obj\Debug\NodejsConsoleApp1.njsproj.CoreCompileInputs.cache
+C:\Users\Akihiko\Desktop\Repos\TypeScriptSample\sample3\NodejsConsoleApp1\NodejsConsoleApp1\bin\Microsoft.NodejsTools.WebRole.dll
+C:\Users\Akihiko\Desktop\Repos\TypeScriptSample\sample3\NodejsConsoleApp1\NodejsConsoleApp1\obj\Debug\NodejsConsoleApp1.njsprojAssemblyReference.cache
